@@ -1,10 +1,10 @@
 # Codepath-prework
 Random Background IOS app for codepath prework
-# Prework - *BackgroundChange*
+# Prework - *BackgroundChangeApp*
 
 Submitted by: **Emmanuel Adekoya**
 
-**BackgroundChang** is an app that present a page with a my student information, and button that changes the color of the background to a random color with 0.5 opacity when clicked. 
+**BackgroundChangeApp** is an app that present a page with a my student information, and button that changes the color of the background to a random color with 0.5 opacity when clicked. 
 
 Time spent: **2.5** hours spent in total
 
