@@ -16,20 +16,16 @@ The following **required** functionality is completed:
 - [x] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
-
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+[Guide]](https://www.loom.com/share/cbaa0c706c1048e0a87985d425726313?sid=cd4b41d9-ef77-472d-ad9d-b6c2f5de27e7) .
 
 ## App Brainstorming (Step 4)
 
 ## Notes
-
-Describe any challenges encountered while building the app.
+Minor difficulties navigating Xcode.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2025] [Emmanuel]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
